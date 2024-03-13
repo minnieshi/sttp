@@ -2,8 +2,7 @@
 
 sttp-client [request definitions](requests/basics.md) can be automatically generated from [openapi](https://swagger.io/specification/) `.yaml` specifications using:
 
-1. the [sttp-openapi-generator](https://github.com/ghostbuster91/sttp-openapi-generator)
-2. the `scala-sttp` code generator, included in the [openapi-generator](https://github.com/OpenAPITools/openapi-generator) project
+1. the `scala-sttp` code generator, included in the [openapi-generator](https://github.com/OpenAPITools/openapi-generator) project
 
 ## Using sttp-openapi-generator
 
